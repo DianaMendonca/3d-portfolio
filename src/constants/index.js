@@ -197,7 +197,7 @@ const testimonials = [
 const projects = [
   {
     index: 0,
-    name: "Todo List",
+    name: "To Do List",
     description:
       "A simple Todo List in React (Web Application). You can add, edit and delete your tasks.",
     tags: [
