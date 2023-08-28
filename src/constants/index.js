@@ -199,7 +199,7 @@ const projects = [
     index: 0,
     name: "To Do List",
     description:
-      "A simple Todo List in React (Web Application). You can add, edit and delete your tasks.",
+      "A simple To Do List in React (Web Application). You can add, edit and delete your tasks.",
     tags: [
       {
         name: "React",
