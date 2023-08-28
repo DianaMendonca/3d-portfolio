@@ -1,0 +1,11 @@
+Model Information:
+* title:	APPLE II Computer
+* source:	https://sketchfab.com/3d-models/apple-ii-computer-d63cf1fd519443648a31db6cab036ab9
+* author:	LinkN7 (https://sketchfab.com/LinkN152)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "APPLE II Computer" (https://sketchfab.com/3d-models/apple-ii-computer-d63cf1fd519443648a31db6cab036ab9) by LinkN7 (https://sketchfab.com/LinkN152) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
