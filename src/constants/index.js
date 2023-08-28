@@ -22,6 +22,7 @@ import {
   rails,
   react2,
   kellizi,
+  todolist,
 } from "../assets";
 
 export const navLinks = [
@@ -196,6 +197,20 @@ const testimonials = [
 const projects = [
   {
     index: 0,
+    name: "Todo List",
+    description:
+      "A simple Todo List in React (Web Application). You can add, edit and delete your tasks.",
+    tags: [
+      {
+        name: "React",
+        color: "react-text-gradient",
+      },
+    ],
+    image: todolist,
+    source_code_link: "https://github.com/GoncaloMendonca/Todo-List",
+  },
+  {
+    index: 1,
     name: "Kellizi",
     description:
       "Web-based platform that allows users to search and manage their insurances from various providers, providing a convenient and efficient solution for managing insurances.",
@@ -221,6 +236,7 @@ const projects = [
     source_code_link: "https://github.com/GoncaloMendonca/Kellizi",
   },
   {
+    index: 2,
     name: "Find a Friend",
     description:
       "An airbnb clone to find friends or rent ourselves as a friend.",

@@ -41,6 +41,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import findafriend from "./findafriend.jpg";
 import kellizi from "./kellizi.jpg";
+import todolist from "./TodoList.png";
 
 export {
   logo,
@@ -83,4 +84,5 @@ export {
   rails,
   react2,
   kellizi,
+  todolist,
 };
